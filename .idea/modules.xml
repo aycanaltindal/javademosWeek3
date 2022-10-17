@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/odev2/odev2.iml" filepath="$PROJECT_DIR$/odev2/odev2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodlamaIo/kodlamaIo.iml" filepath="$PROJECT_DIR$/kodlamaIo/kodlamaIo.iml" />
       <module fileurl="file://$PROJECT_DIR$/odev3/odev3.iml" filepath="$PROJECT_DIR$/odev3/odev3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/week3.iml" filepath="$PROJECT_DIR$/.idea/week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work2/work2.iml" filepath="$PROJECT_DIR$/work2/work2.iml" />
     </modules>
   </component>
 </project>
